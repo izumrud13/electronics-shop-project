@@ -1,4 +1,5 @@
 from src.item import Item
+import os
 
 if __name__ == '__main__':
     # Файл items.csv отсутствует.
